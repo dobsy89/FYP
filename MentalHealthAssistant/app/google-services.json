@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771522100436",
+    "firebase_url": "https://local-services-ndupss.firebaseio.com",
+    "project_id": "local-services-ndupss",
+    "storage_bucket": "local-services-ndupss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771522100436:android:c13d689de6378f90e04f41",
+        "android_client_info": {
+          "package_name": "com.example.mentalHealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771522100436-4tl9qngdpr69i4ecsalvcqij958cqp8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVE4fBmMYTiewzsXeN0QeaRXdMlxR02U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771522100436-4tl9qngdpr69i4ecsalvcqij958cqp8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
